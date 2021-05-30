@@ -5,6 +5,7 @@ working at [WSO2](https://wso2.com/)
 and studying for MSc at [Robert Gordon University](https://www.rgu.ac.uk/)
 ### Some of my stats
 ![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharakamd&count_private=false&show_icons=true&theme=slateorange)
+<br/>
 [![Years Badge](https://badges.pufler.dev/years/tharakamd)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/tharakamd)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/tharakamd)](https://badges.pufler.dev)
