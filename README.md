@@ -20,7 +20,7 @@ and studying for MSc at [Robert Gordon University](https://www.rgu.ac.uk/)
 
 ### Read my articles
 
-* ![tw](asserts/medium.png) [Medium](https://medium.com/@tharakamd.12)
+* ![tw](asserts/medium.png) [Medium](https://tharakamd-12.medium.com/)
 
 ### Get something done
 
