@@ -15,7 +15,7 @@ and studying for MSc at [Robert Gordon University](https://www.rgu.ac.uk/)
 * ![li](asserts/email.png) [Email](mailto:tharakamd6@gmail.com)
 * ![li](asserts/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dilantharaka/)
 * ![tw](asserts/twitte.png) [Twitter](https://twitter.com/dilantharka)
-* ![tw](asserts/st.png) [StackOverflow](https://stackoverfflow.com/users/6048237/dilan-tharaka)
+* ![tw](asserts/st.png) [StackOverflow](https://stackoverflow.com/users/6048237/dilan-tharaka)
 * ![tw](asserts/facebook.png) [Facebook](https://www.facebook.com/tharakamd/)
 
 ### Read my articles
