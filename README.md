@@ -1,6 +1,6 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Dilan Tharaka, a developer, freelancer, and a blogger from Sri Lanka and currently living in the UK (https://www.lonelyplanet.com/sri-lanka). I'm
+I'm Dilan Tharaka, a developer, freelancer, and a blogger from Sri Lanka and currently living in the UK. I'm
 working at [Booking.com](https://booking.com/)
 and studying for MSc at [Robert Gordon University](https://www.rgu.ac.uk/)
 ### Some of my stats
